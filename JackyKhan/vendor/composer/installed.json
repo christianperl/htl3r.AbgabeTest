@@ -1,0 +1,37 @@
+[
+    {
+        "name": "htl3r/kung-fu-movies",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Weissheiten/htl3r.kungfumovies.git",
+            "reference": "0b4b9f402b0b0b5516560e4f779b4554a08162bf"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/Weissheiten/htl3r.kungfumovies/zipball/0b4b9f402b0b0b5516560e4f779b4554a08162bf",
+            "reference": "0b4b9f402b0b0b5516560e4f779b4554a08162bf",
+            "shasum": ""
+        },
+        "time": "2017-11-06T20:24:01+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "HTL3R\\KungFuMovies\\": "src/"
+            }
+        },
+        "authors": [
+            {
+                "name": "Florian Weiss",
+                "email": "github@weissheiten.at"
+            }
+        ],
+        "description": "Provides an interface to set what a kung-fu-movie has to provide",
+        "support": {
+            "source": "https://github.com/Weissheiten/htl3r.kungfumovies/tree/v1.0",
+            "issues": "https://github.com/Weissheiten/htl3r.kungfumovies/issues"
+        }
+    }
+]

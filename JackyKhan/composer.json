@@ -1,0 +1,21 @@
+{
+    "name": "htl3r/jackykhan",
+    "description": "Website for showing informations and kungfu movies",
+    "type": "project",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Christian",
+            "email": "christian.perl@edu.htl.rennweg.at"
+        }
+    ],
+    "require": {
+        "htl3r/kung-fu-movies": "dev-master"
+    },
+    "repositories": {
+        "kungfumovies": {
+            "type": "vcs",
+            "url": "https://github.com/Weissheiten/htl3r.kungfumovies.git"
+        }
+    }
+}
